@@ -1,5 +1,5 @@
 {
-  "name": "cse341-apicourse-code",
+  "name": "cse341apicoursecode",
   "version": "1.0.0",
   "description": "code to give to students for the cse341 course",
   "main": "server.js",
@@ -9,20 +9,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nathanbirch/cse341-apiCourse-code.git"
+    "url": "https://github.com/Leepermatt/CSE341wk2group"
   },
-  "author": "Nathan Birch",
+  "author": "Matthew Leeper",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nathanbirch/cse341-apiCourse-code/issues"
+    "url": "https://github.com/Leepermatt"
   },
-  "homepage": "https://github.com/nathanbirch/cse341-apiCourse-code#readme",
+  "homepage": "https://github.com/Leepermatt/CSE341wk2group",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.0.0",
-    "express": "^4.17.3",
+    "express": "^4.21.2",
     "mongodb": "^4.5.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "packageManager": "pnpm@9.11.0+sha512.0a203ffaed5a3f63242cd064c8fb5892366c103e328079318f78062f24ea8c9d50bc6a47aa3567cabefd824d170e78fa2745ed1f16b132e16436146b7688f19b",
+  "keywords": []
 }

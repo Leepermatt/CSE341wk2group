@@ -1,0 +1,2 @@
+GET http://localhost:3000/index
+# the request above returns a json object with all professional data for Matt Leeper. No database is connected.
